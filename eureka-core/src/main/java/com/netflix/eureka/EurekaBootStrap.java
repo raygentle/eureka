@@ -61,6 +61,8 @@ import org.slf4j.LoggerFactory;
  * server binds it to the elastic ip as specified.
  * </p>
  *
+ * eureka-Server 启动类
+ *
  * @author Karthik Ranganathan, Greg Kim, David Liu
  *
  */

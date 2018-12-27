@@ -105,6 +105,8 @@ import com.netflix.servo.monitor.Stopwatch;
  * {@link java.net.URL}s specified in the list in the case of failure.
  * </p>
  *
+ * 注册发现客户端实现类
+ *
  * @author Karthik Ranganathan, Greg Kim
  * @author Spencer Gibb
  *
